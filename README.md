@@ -1,41 +1,53 @@
-<h1 align="center">Hi 👋 I'm Rozana</h1>
-<h3 align="center">Backend Engineer | Building Scalable Node.js Systems 🚀</h3>
+<h1 align="center">Rozana Shaqqoura</h1>
+<h3 align="center">Backend Engineer | Node.js Specialist | API Architect 🚀</h3>
+
+<p align="center">
+Building scalable systems with clean architecture & real-world impact.
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building RESTful APIs with Node.js
-- 🌱 Learning Clean Architecture & System Design
-- 🔐 Focused on Authentication & Authorization systems
-- 🧩 Practicing SOLID & Repository Pattern
-- 🎯 Goal: Become a world-class Backend Engineer
+I’m a Backend Engineer focused on building secure, scalable RESTful APIs using Node.js and MongoDB.  
+I care about architecture, structure, and writing clean maintainable code.
+
+- 🔐 Authentication & Authorization Systems
+- 🧩 Clean Architecture & Repository Pattern
+- ⚙️ REST API Design & Validation
+- 📦 Pagination, Filtering & Role-Based Access
+- 🧠 Always improving system design thinking
 
 ---
 
-## 🚀 Backend Stack
+## 🚀 Core Backend Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,docker,git,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Rozana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozanashaqqoura&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozanashaqqoura&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rozanashaqqoura&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozanashaqqoura&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🔥 Backend Concepts I Work With
+## 🔥 Engineering Principles
 
-- Clean Architecture
+- SOLID Principles
 - Dependency Injection
 - Repository Pattern
-- SOLID Principles
-- JWT Authentication
-- Role-Based Access Control
-- Pagination & Filtering
-- Error Handling & Validation
+- Error Handling Strategy
+- Secure Token Management
+- Structured Project Architecture
+
+---
+
+<p align="center">
+⚡ Consistency over motivation. Systems over shortcuts.
+</p>
