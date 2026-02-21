@@ -81,8 +81,7 @@ I build production-oriented web systems with emphasis on architecture, security,
 ## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rozanashaqqoura&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rozanashaqqoura&show_icons=true&theme=tokyonight" /></p>
 
 ---
 
