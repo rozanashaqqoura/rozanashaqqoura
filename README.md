@@ -76,12 +76,6 @@ I build production-oriented web systems with emphasis on architecture, security,
 - Environment configuration & deployment awareness  
 - Containerized development practices  
 
----
-
-## 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm,firebase,figma,notion,androidstudio,babel" />
-</p>
 
 ---
 
