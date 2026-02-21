@@ -1,99 +1,91 @@
 <h1 align="center">Rozana Shaqqoura</h1>
-<h3 align="center">Software Engineer | Systems-Oriented & Backend-Focused</h3>
+<h3 align="center">Software Engineer | Backend-Focused | System Design Enthusiast</h3>
+
 <p align="center">
-Architecting scalable solutions with discipline, precision, and purpose.
+Designing structured, scalable systems with clarity, discipline, and long-term thinking.
 </p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I’m a Software Engineer with a backend-focused mindset and full-stack experience.
+I’m a Software Engineer with strong backend focus and full-stack experience.
 
-I design and build web systems with emphasis on clean architecture, secure authentication flows, and scalable database-driven applications.
+I build production-oriented web systems with emphasis on architecture, security, and maintainability — ensuring that applications are structured to scale and evolve over time.
 
-## 🧠 Architecture & Engineering Approach
-
-- Designing layered systems using Clean & Hexagonal Architecture
-- Applying SOLID principles for modular and maintainable codebases
-- Leveraging Dependency Injection for scalable, testable services
-- Structuring domain-driven application layers
-- Designing secure authentication and access control strategies
 ---
+
+## 🧠 Architecture & System Design
+
+- Clean & Hexagonal Architecture
+- SOLID-driven modular design
+- Dependency Injection & abstraction layers
+- Domain-oriented project structuring
+- Secure authentication & access control design
+- Layered application boundaries
+
+---
+
+## ⚙️ Backend Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
 </p>
 
-- RESTful API Design  
-- Authentication & Authorization (JWT, RBAC)  
-- Layered & Hexagonal Architecture  
-- Secure & Scalable Service Design  
+- RESTful API design & validation strategies  
+- Token lifecycle management (JWT)  
+- Role-Based Access Control (RBAC)  
+- Service abstraction & separation of concerns  
+- Error handling & structured response patterns  
 
 ---
 
-### Data & Persistence
-```html
+## 🗄 Data & Persistence Layer
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 - Relational & NoSQL schema modeling  
-- Query optimization  
-- Pagination & filtering strategies  
+- Query performance awareness  
+- Pagination, filtering & scalable data access  
+- Repository abstraction patterns  
 
 ---
 
-### Frontend Integration
-```html
+## 🎨 Frontend Integration
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-- Full-stack application integration  
-- API-driven UI architecture  
+- API-driven UI integration  
+- Full-stack feature implementation  
+- Structured state-driven interfaces  
 
 ---
 
-### Tooling & Dev Workflow
-```html
+## 🛠 Engineering Workflow
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
 
-- Branch-based workflow  
-- Pull request review cycles  
-- Environment configuration & deployment  
+- Branch-based Git workflows  
+- Pull request & review cycles  
+- Environment configuration & deployment awareness  
+- Containerized development practices  
 
 ---
 
-لاحظي الفرق:
+## 📊 GitHub Overview
 
-هاي مش list أدوات.  
-هاي عرض قدرات هندسية.
-
----
-
-# 📊 بالنسبة لـ GitHub Analytics
-
-إذا بدنا نخليها احترافية أكثر:
-
-### خيار 1 (Minimal senior vibe)
-خلي بس:
-
-```html
-<img src="https://github-readme-stats.vercel.app/api?username=rozanashaqqoura&show_icons=true&theme=transparent" />
-
-## 🧠 Engineering Principles
-
-- SOLID Principles
-- Dependency Injection
-- Repository Pattern
-- Clean Code & Maintainability
-- Secure Token Management (JWT, Bcrypt)
-- Structured Project Architecture
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rozanashaqqoura&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-⚡ Engineering is about systems, not shortcuts.
+⚡ Engineering is about designing systems — not just writing code.
 </p>
