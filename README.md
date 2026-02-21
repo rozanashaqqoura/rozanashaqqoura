@@ -14,6 +14,20 @@ I’m a Software Engineer with strong backend focus and full-stack experience.
 I build production-oriented web systems with emphasis on architecture, security, and maintainability — ensuring that applications are structured to scale and evolve over time.
 
 ---
+## 🧠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,mysql,docker" />
+</p>
+
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js" />
+</p>
+
+## 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm,firebase,figma,notion,androidstudio,babel" />
+</p>
 
 ## 🧠 Architecture & System Design
 
