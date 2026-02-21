@@ -7,7 +7,7 @@ Designing structured, scalable systems with clarity, discipline, and long-term t
 
 ---
 
-## 👩‍💻 About Me
+## 👋  About Me
 
 I’m a Software Engineer with strong backend focus and full-stack experience.
 
