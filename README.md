@@ -7,81 +7,53 @@ Designing structured, scalable systems with clarity, discipline, and long-term t
 
 ---
 
-## 👋  About Me
+## 👋 About Me
 
-I’m a Software Engineer with strong backend focus and full-stack experience.
+I’m a Software Engineer with a backend-focused mindset and full-stack experience.
 
-I build production-oriented web systems with emphasis on architecture, security, and maintainability — ensuring that applications are structured to scale and evolve over time.
+I build production-oriented web systems with strong emphasis on architecture, security, and maintainability — ensuring systems are designed to scale and evolve over time.
 
 ---
 
 ## 🧠 Architecture & System Design
 
-- Clean & Hexagonal Architecture
-- SOLID-driven modular design
-- Dependency Injection & abstraction layers
-- Domain-oriented project structuring
-- Secure authentication & access control design
-- Layered application boundaries
+- Clean & Hexagonal Architecture  
+- SOLID-driven modular design  
+- Dependency Injection & abstraction layers  
+- Domain-oriented project structuring  
+- Secure authentication & access control strategies  
+- Layered application boundaries  
 
 ---
 
-## ⚙️ Backend Engineering
+## ⚙️ Core Stack
 
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,typescript" />
 </p>
 
-- RESTful API design & validation strategies  
-- Token lifecycle management (JWT)  
-- Role-Based Access Control (RBAC)  
-- Service abstraction & separation of concerns  
-- Error handling & structured response patterns  
-
----
-
-## 🗄 Data & Persistence Layer
-
+### Data Layer
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-- Relational & NoSQL schema modeling  
-- Query performance awareness  
-- Pagination, filtering & scalable data access  
-- Repository abstraction patterns  
-
----
-
-## 🎨 Frontend Integration
-
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-- API-driven UI integration  
-- Full-stack feature implementation  
-- Structured state-driven interfaces  
-
 ---
 
-## 🛠 Engineering Workflow
-
+## 🛠 Engineering Workflow & Tooling
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,npm,firebase,figma,notion,vscode,babel" />
 </p>
 
 - Branch-based Git workflows  
 - Pull request & review cycles  
 - Environment configuration & deployment awareness  
 - Containerized development practices  
-
----
-
-## 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm,firebase,figma,notion,androidstudio,babel" />
-</p>
 
 ---
 
